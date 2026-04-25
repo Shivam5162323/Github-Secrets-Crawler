@@ -1,4 +1,4 @@
-# 🔍 GitHub Secret Crawler
+# 🔍 GitHub Secrets Crawler
 
 A self-contained tool that crawls GitHub repositories, detects hardcoded secrets, and presents findings in a modern web dashboard.
 
