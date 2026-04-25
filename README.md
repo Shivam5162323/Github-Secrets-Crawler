@@ -4,6 +4,23 @@ A self-contained tool that crawls GitHub repositories, detects hardcoded secrets
 
 ---
 
+> ## ⚠️ Legal Warning & Ethical Use Disclaimer
+>
+> **This tool is intended strictly for educational purposes and authorized security research only.**
+>
+> - ✅ Only scan repositories you **own** or have **explicit written permission** to test
+> - ✅ Use responsibly for bug bounty programs where secret scanning is in scope
+> - ✅ Use on your own organization's repositories to audit for credential leaks
+> - ❌ **Do NOT** scan repositories without the owner's permission
+> - ❌ **Do NOT** use findings to access, exploit, or compromise any system
+> - ❌ **Do NOT** store, share, or misuse any credentials discovered by this tool
+>
+> Unauthorized scanning of repositories may violate the **GitHub Terms of Service**, the **Computer Fraud and Abuse Act (CFAA)**, and equivalent laws in your jurisdiction.
+>
+> **The author is not responsible for any misuse of this tool. You are solely responsible for how you use it.**
+
+---
+
 ## Features
 
 - **4 crawl modes** — GitHub user, org, search query, or single repo URL
